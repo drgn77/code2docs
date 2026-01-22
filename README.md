@@ -5,6 +5,12 @@ Code2Docs is a Streamlit-based tool that helps developers generate documentation
 The application allows you to paste code once and generate README files, requirements, docstrings, notebook markdown cells, and GitHub metadata in a clean and structured way.
 
 ---
+## Live Demo
+
+The application is deployed on Streamlit Cloud and available at:
+
+https://drgn-code2docs.streamlit.app/
+
 
 ## Features
 
